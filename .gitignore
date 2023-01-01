@@ -1,0 +1,3 @@
+cloned/**
+!**README.md**
+node_modules
