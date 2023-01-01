@@ -1,0 +1,31 @@
+{
+  "name": "github-fetcher",
+  "version": "1.0.0",
+  "description": "Clone every repos from a GitHub user.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0ct3ri4/github-fetcher.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "github",
+    "git",
+    "api",
+    "fetch"
+  ],
+  "author": "Paul BONCAR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n0ct3ri4/github-fetcher/issues"
+  },
+  "homepage": "https://github.com/n0ct3ri4/github-fetcher#readme",
+  "dependencies": {
+    "axios": "1.2.2",
+    "shelljs": "^0.8.5"
+  }
+}
