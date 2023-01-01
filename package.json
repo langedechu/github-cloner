@@ -1,5 +1,5 @@
 {
-  "name": "github-fetcher",
+  "name": "github-cloner",
   "version": "1.0.0",
   "description": "Clone every repos from a GitHub user.",
   "main": "index.js",
